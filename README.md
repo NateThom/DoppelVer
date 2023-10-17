@@ -50,7 +50,7 @@ The dataset is organized as follows:
 ``` bash
 DoppelVer/
 ├── README.md
-├── doppelgangerPairs.csv
+├── DoppelgangerPairs.csv
 ├── DoppelgangerProtocol.csv
 ├── ViSEProtocol.csv
 ├── Images.zip
