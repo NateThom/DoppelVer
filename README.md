@@ -40,8 +40,6 @@ In order to receive access the the dataset you must request access from Dr. Emil
 The DoppelVer dataset includes the following features and attributes:
 
 - Doppelganger pairs: annotation of which identities are doppelgangers to one another.
-- Gender: the identity's gender assigned at birth.
-- Country of Origin: The country in which the individual was born in.
 - Verification Pairs: protocols for evaluating face verification, including paths to two images and a label denoting if the images depict the same of different identities. 
 
 ## Dataset Structure
