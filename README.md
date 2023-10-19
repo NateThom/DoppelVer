@@ -22,8 +22,7 @@ The **DoppelVer** dataset is a benchmark dataset designed for evaluating and adv
 This README file provides essential information about the dataset, its structure, and instructions on receiving access and how to use it was intended to be used.
 
 ## Access
-
-In order to receive access the the dataset you must request access from Dr. Emily Hand at the University of Nevada, Reno. Upon acceptance of the end user license agreement you will be provided with access to the dataset. Dr. Hand can be reached at emhand@unr.edu. Please use the following in the subject line: "DoppelVer dataset access request".
+Individuals interested in using the DoppelVer dataset must submit a request to Dr. Emily Hand at the University of Nevada, Reno. Requests should be sent in email form to emhand@unr.edu and include a signed copy of the end user licence agreement (EULA). The EULA is a file in this github repository.
 
 ## Dataset Details
 
@@ -79,7 +78,7 @@ DoppelVer/
 - `Images/`: The resultant directory after decompressing the Images.zip file.
 ## Usage
 
-Intended use cases are provided in our academic paper referenced below. DoppelVer is intended to be used for the evaluation of face recognition models. The dataset does not contain sufficient samples, nor diversity to effectively train face recognition models.
+Intended use cases are provided in our academic paper, referenced below. DoppelVer is intended to be used for the evaluation of face recognition models. The dataset does not contain sufficient samples, nor diversity to effectively train face recognition models.
 
 ## Citation
 
